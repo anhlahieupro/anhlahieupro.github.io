@@ -1,7 +1,5 @@
 # Terms of Services
 
----
-
 Apple offers in-app purchases for various subscription periods including weekly, monthly and yearly. By making a purchase through the Apple App Store, you agree to the following terms of service:
 
 1. Payment: Payment for in-app purchases will be charged to your Apple ID account at the confirmation of purchase. The subscription will automatically renew unless canceled at least 24 hours before the end of the current subscription period.
